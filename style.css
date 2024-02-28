@@ -1,0 +1,29 @@
+body {
+    background-color:black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ .one {
+    color: white;
+    font-style: normal;
+    padding-right: 250px;
+
+ }
+.secound {
+    color: white;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+ th,
+ td {
+    padding: 10px 50px;
+ }
+
+ .third {
+    background-color: #005d64;
+    color: #fff;
+ }
+  .fourth{
+    background-color: #ff9100;
+    color: #fff;
+  }
